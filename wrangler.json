@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "waitlist-api",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "26e639b4-bdd3-4120-8fdd-a95c473207bd",
+      "database_name": "waitlist-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
